@@ -1,0 +1,350 @@
+Initialize engine version: 5.3.2p1 (82077c0be25b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx64.dll 8.17.10.1452]
+    Renderer: AMD Radeon R9 200 Series
+    Vendor:   ATI
+    VRAM:     4074 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-Boo.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-Boo.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTweenPro.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DOTweenPro.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\KGFUtils.Settings.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\KGFUtils.Settings.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DecalSystem.Runtime.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\DecalSystem.Runtime.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\protobuf-net.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\RAIN.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\RAINMetaform.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Rewired_Core.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\Rewired_Core.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\SharedRuntime.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\SharedRuntime.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\uSequencerRuntime.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\uSequencerRuntime.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.Xml.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 2970x1680 at 0,0
+<RI> Initialized touch support.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1498)
+
+The referenced script on this Behaviour (Game Object 'KGFConsole') is missing!
+ 
+(Filename:  Line: 1655)
+
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Managed\System.Transactions.dll (this message is harmless)
+UnloadTime: 1.113200 ms
+Non platform assembly: data-000000000F82F010 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/Mono/data-000000000F82F010.dll
+Non platform assembly: data-000000000F8CC390 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/Mono/data-000000000F8CC390.dll
+Non platform assembly: data-0000000014F90080 (this message is harmless)
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/Mono/data-0000000014F90080.dll
+Rewired: Searching for compatible XInput library...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Rewired: Found Xinput1_3.dll.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] STEAM MANAGER Steam depot : 276813 for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] STEAM MANAGER Steam depot : 276815 for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] STEAM MANAGER Steam depot : 276822 for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] HERMES RegisterMyrtilus ID = 1 for Object: hermes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] DB Connector Trying to connec to : URI=file:C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/database/mordheim for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] DB Connector Connection successful for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] GAME MANAGER AWAKE for Object: pandora
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] HEPHAESTUS On File Read True for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] PandoraInput PUSH InputLayers.Count = 1 current = NORMAL for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Shader warmup: 13 shaders 107 combinations 0.331s
+00:00:00:000 (0) - [DEBUG] STEAM MANAGER RequestCurrentStats for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] STEAM MANAGER Steam default language : english for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [DEBUG] HEPHAESTUS Changing Language to : enUS for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] uncategorised Profile Read START for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] HEPHAESTUS On File Read True for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] uncategorised Profile Read 1 for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:000 (0) - [INFO] uncategorised Profile Read 2 for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1998 -> priority: 1 
+UnloadTime: 0.436577 ms
+00:00:00:020 (0) - [INFO] PandoraInput PUSH InputLayers.Count = 2 current = TRANSITION for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2282.
+Total: 8.433823 ms (FindLiveObjects: 0.089466 ms CreateObjectMapping: 0.107555 ms MarkObjects: 8.205023 ms  DeleteObjects: 0.021022 ms)
+
+00:00:00:437 (0) - [INFO] INIT Welcome to Mordheim V 1.1.4.13 for Object: main_menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1655)
+
+00:00:00:437 (0) - [INFO] uncategorised finished loading for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT0.1595356s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT gENERATE uNIT fINISHED0.1619568s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/props.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT0.01541424s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT gENERATE uNIT fINISHED0.01673126s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT0.01312017s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT gENERATE uNIT fINISHED0.01443982s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT0.01212645s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:437 (0) - [DEBUG] LOADING iNIT uNIT gENERATE uNIT fINISHED0.01344895s for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:770 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/equipments.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:770 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/mer_captain.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:893 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/ska_base.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:00:964 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/sis_matriarch.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:01:008 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/pos_base.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:01:119 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/ska_assassin.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:01:160 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/pos_magister.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+00:00:01:299 (0) - [INFO] uncategorised Loading AssetBundle : C:/Program Files (x86)/Steam/steamapps/common/mordheim/mordheim_Data/StreamingAssets/asset_bundle/mer_base.assetbundle for Object: NULL
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\mordheim;C:\Program Files (x86)\Steam\steamapps\common\mordheim;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'joshv_000'
+OS-Version: 10.0.10586 () 0x100-0x1
+C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim.exe:mordheim.exe (00007FF7D7D30000), size: 21733376 (result: 0), SymType: 'PDB', PDB: '.\player_win_x64.pdb', fileVersion: 5.3.2.1916
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFB915D0000), size: 1839104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.10586.122
+C:\WINDOWS\system32\KERNEL32.DLL:KERNEL32.DLL (00007FFB8F4D0000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\KERNEL32.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\KERNELBASE.dll:KERNELBASE.dll (00007FFB8E750000), size: 1998848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\KERNELBASE.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\system32\GDI32.dll:GDI32.dll (00007FFB8F1D0000), size: 1597440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\GDI32.dll', fileVersion: 10.0.10586.63
+C:\WINDOWS\system32\USER32.dll:USER32.dll (00007FFB90F80000), size: 1400832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\USER32.dll', fileVersion: 10.0.10586.20
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFB8CBE0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\ADVAPI32.dll:ADVAPI32.dll (00007FFB913A0000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\ADVAPI32.dll', fileVersion: 10.0.10586.63
+C:\WINDOWS\system32\msvcrt.dll:msvcrt.dll (00007FFB8F430000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\msvcrt.dll', fileVersion: 7.0.10586.0
+C:\WINDOWS\system32\sechost.dll:sechost.dll (00007FFB90B00000), size: 372736 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\sechost.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\RPCRT4.dll:RPCRT4.dll (00007FFB91120000), size: 1163264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\RPCRT4.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\WS2_32.dll:WS2_32.dll (00007FFB90B70000), size: 438272 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\WS2_32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\ole32.dll:ole32.dll (00007FFB8E9D0000), size: 1323008 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\ole32.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\system32\combase.dll:combase.dll (00007FFB8EB20000), size: 2609152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\combase.dll', fileVersion: 10.0.10586.103
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFB87870000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFB8E960000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\bcryptPrimitives.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\SHLWAPI.dll:SHLWAPI.dll (00007FFB90D60000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SHLWAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\SHELL32.dll:SHELL32.dll (00007FFB8F580000), size: 22396928 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SHELL32.dll', fileVersion: 10.0.10586.122
+C:\WINDOWS\system32\cfgmgr32.dll:cfgmgr32.dll (00007FFB8DD10000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\cfgmgr32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\windows.storage.dll:windows.storage.dll (00007FFB8DD60000), size: 6574080 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\windows.storage.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\system32\kernel.appcore.dll:kernel.appcore.dll (00007FFB8DC70000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\kernel.appcore.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\shcore.dll:shcore.dll (00007FFB8E5E0000), size: 741376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\shcore.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\powrprof.dll:powrprof.dll (00007FFB8DC00000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\powrprof.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\profapi.dll:profapi.dll (00007FFB8DC50000), size: 81920 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\profapi.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\OLEAUT32.dll:OLEAUT32.dll (00007FFB91500000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\OLEAUT32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\IMM32.dll:IMM32.dll (00007FFB910E0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\IMM32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFB64B50000), size: 1216512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFB8C1E0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (00007FFB81120000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFB8C570000), size: 696320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFB8AB20000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\NSI.dll:NSI.dll (00007FFB90BE0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NSI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFB8A2B0000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.10586.71
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFB7F740000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (00007FFB65B40000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFB8C1B0000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (00007FFB6B9B0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.10586.3
+c:\program files (x86)\steam\GameOverlayRenderer64.dll:GameOverlayRenderer64.dll (00007FFB649F0000), size: 1441792 (result: 0), SymType: '-exported-', PDB: 'c:\program files (x86)\steam\GameOverlayRenderer64.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\system32\PSAPI.DLL:PSAPI.DLL (00007FFB90B60000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\PSAPI.DLL', fileVersion: 10.0.10586.0
+C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Mono\mono.dll:mono.dll (00007FFB5F560000), size: 2990080 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFB8D4C0000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFB8C620000), size: 614400 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.10586.0
+C:\PROGRA~2\RAPTRI~1\PlaysTV\ltc_help64-110351.dll:ltc_help64-110351.dll (00007FFB8B2D0000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\PROGRA~2\RAPTRI~1\PlaysTV\ltc_help64-110351.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\system32\WINTRUST.dll:WINTRUST.dll (00007FFB8E3B0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\WINTRUST.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\MSASN1.dll:MSASN1.dll (00007FFB8DBF0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\MSASN1.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\CRYPT32.dll:CRYPT32.dll (00007FFB8E410000), size: 1863680 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\CRYPT32.dll', fileVersion: 10.0.10586.0
+C:\PROGRA~2\RAPTRI~1\Raptr\ltc_help64-109838.dll:ltc_help64-109838.dll (00007FFB65B10000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\PROGRA~2\RAPTRI~1\Raptr\ltc_help64-109838.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\system32\MSCTF.dll:MSCTF.dll (00007FFB91240000), size: 1417216 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\MSCTF.dll', fileVersion: 10.0.10586.71
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (00007FFB8B300000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\d3d9.dll:d3d9.dll (00007FFB67680000), size: 2162688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d9.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\aticfx64.dll:aticfx64.dll (00007FFB87880000), size: 1531904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\aticfx64.dll', fileVersion: 8.17.10.1452
+C:\WINDOWS\SYSTEM32\atiu9p64.dll:atiu9p64.dll (00007FFB66890000), size: 135168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\atiu9p64.dll', fileVersion: 8.14.1.6505
+C:\WINDOWS\SYSTEM32\atiumd64.dll:atiumd64.dll (00007FFB66010000), size: 8892416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\atiumd64.dll', fileVersion: 9.14.10.1183
+C:\WINDOWS\SYSTEM32\atiumd6a.dll:atiumd6a.dll (000000006F2A0000), size: 9752576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\atiumd6a.dll', fileVersion: 8.14.10.546
+C:\WINDOWS\SYSTEM32\mscms.dll:mscms.dll (00007FFB62290000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\mscms.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFB8D350000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\icm32.dll:icm32.dll (00007FFB6EC60000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\icm32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (00007FFB88050000), size: 458752 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MMDevAPI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (00007FFB8C6C0000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (00007FFB8BB10000), size: 1597440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.10586.0
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (00007FFB7F6B0000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (00007FFB63380000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (00007FFB87AF0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFB6FFC0000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.10586.122
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFB88CB0000), size: 1269760 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.10586.103
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (00007FFB85B00000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (00007FFB85AF0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\dsound.dll:dsound.dll (00007FFB64950000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dsound.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\clbcatq.dll:clbcatq.dll (00007FFB91450000), size: 684032 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (00000000075C0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\WINDOWS\system32\SETUPAPI.dll:SETUPAPI.dll (00007FFB8EDA0000), size: 4362240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\SETUPAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\xinput1_4.dll:xinput1_4.dll (00007FFB84970000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_4.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\xinput1_2.dll:xinput1_2.dll (000000000B620000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_2.dll', fileVersion: 9.14.701.0
+C:\WINDOWS\SYSTEM32\xinput1_1.dll:xinput1_1.dll (000000000B680000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_1.dll', fileVersion: 9.12.589.0
+C:\WINDOWS\SYSTEM32\xinput9_1_0.dll:xinput9_1_0.dll (00007FFB769D0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput9_1_0.dll', fileVersion: 10.0.10586.0
+C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Plugins\CSteamworks.dll:CSteamworks.dll (00007FFB724C0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Plugins\CSteamworks.dll', fileVersion: 1.9.0.0
+C:\Program Files (x86)\Steam\steamapps\common\mordheim\steam_api64.dll:steam_api64.dll (000000006DA30000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\mordheim\steam_api64.dll', fileVersion: 2.37.91.26
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (000000006CDA0000), size: 13139968 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamclient64.dll', fileVersion: 3.33.99.41
+C:\WINDOWS\system32\imagehlp.dll:imagehlp.dll (00007FFB90AE0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\imagehlp.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFB8AAB0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\Secur32.dll', fileVersion: 10.0.10586.0
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (000000006CD30000), size: 430080 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\vstdlib_s64.dll', fileVersion: 3.33.99.41
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (000000006CB40000), size: 1982464 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\tier0_s64.dll', fileVersion: 3.33.99.41
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFB8D8D0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SSPICLI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFB8D5D0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFB8D200000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFB8DB20000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFB8D6F0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.10586.0
+C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Plugins\sqlite3.dll:sqlite3.dll (00007FFB60630000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Steam\steamapps\common\mordheim\mordheim_Data\Plugins\sqlite3.dll', fileVersion: 3.8.8.2
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFB6B820000), size: 1622016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.10586.0
+
+========== OUTPUTING STACK TRACE ==================
+
+RtlLookupFunctionEntry returned NULL function. Aborting stack walk.
+========== END OF STACKTRACE ===========
+
